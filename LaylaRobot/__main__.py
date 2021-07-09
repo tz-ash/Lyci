@@ -365,11 +365,11 @@ def layla_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_Lyci's licensed under the GNU General Public License v3.0_
-                 \n❍ Awesome Bots @kidbots
+                 \n❍ Kid Bots @kidbots
                  \n❍ Support Group @tzkid
                  \n❍ Assistant @LayciAssistant.
                  \nHere is the [💾Repository](https://t.me/kidbots).
-                 \n\nIf you have any question about Layla, let us know at .""",
+                 \n\nIf you have any question about Lyci, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
