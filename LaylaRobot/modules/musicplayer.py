@@ -22,5 +22,5 @@ __help__ = """
 ❍ /admincache - Refresh admin list
 =>>   *Use*
 1) Add @LyciRobot in your group to admin with all permission
-2) Add Assistant I'd to your group @LyciAssistant
+2) Add Assistant I'd to your group @LyciAssistant 😝
 """
