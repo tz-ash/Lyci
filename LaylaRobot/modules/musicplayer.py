@@ -1,4 +1,4 @@
-__mod_name__ = "Music Player"
+__mod_name__ = "ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ"
 
 __help__ = """
 =>> *Song Playing* 🎧 
