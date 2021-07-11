@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ʜᴇʟʟᴏ [👋](https://telegra.ph/file/3f9346bdf04a039d69d67.jpg), ɪ'ᴍ ʟʏᴄɪ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by [ᴋɪᴅ](t.me/kid_of_telegram)"""
+Maintained by @tzkid 
 """
 
 buttons = [
@@ -105,7 +105,7 @@ buttons = [
 HELP_STRINGS = """
 `Hi.. I'M` LyciRobot
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☆ [ᴋɪᴅ ʙᴏᴛꜱ](t.me/kidbots)"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [ᴋɪᴅ ʙᴏᴛꜱ](t.me/kidbots)"""
 
 layla_IMG = "https://telegra.ph/file/3f9346bdf04a039d69d67.jpg"
 
