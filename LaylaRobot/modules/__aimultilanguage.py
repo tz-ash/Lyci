@@ -62,7 +62,7 @@ async def hmm(_, message):
             await lel.edit("layla AI Already Activated In This Chat")
             return
         await lel.edit(
-            f"layla AI Successfully Added For Users In The Chat {message.chat.id}"
+            f"lyci AI Successfully Added For Users In The Chat {message.chat.id}"
         )
 
     elif status == "OFF" or status == "off" or status == "Off":
@@ -72,7 +72,7 @@ async def hmm(_, message):
             await lel.edit("Layla AI Was Not Activated In This Chat")
             return
         await lel.edit(
-            f"layla AI Successfully Deactivated For Users In The Chat {message.chat.id}"
+            f"lyci AI Successfully Deactivated For Users In The Chat {message.chat.id}"
         )
 
     elif status == "EN" or status == "en" or status == "english":
@@ -356,10 +356,10 @@ async def inuka(client, message):
 
 __help__ = """
 <b> Chatbot </b>
-layla AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
+lyci AI 3.0 IS THE ONLY AI SYSTEM WHICH CAN DETECT & REPLY UPTO 200 LANGUAGES
  - /chatbot [ON/OFF]: Enables and disables AI Chat mode (EXCLUSIVE)
  - /chatbot EN : Enables English only chatbot
  
 """
 
-__mod_name__ = "Chatbot"
+__mod_name__ = "ᴄʜᴀᴛʙᴏᴛ"
