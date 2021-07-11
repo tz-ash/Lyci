@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-HELLOW [👋](https://telegra.ph/file/3f9346bdf04a039d69d67.jpg), I'M Lyci
+ʜᴇʟʟᴏ [👋](https://telegra.ph/file/3f9346bdf04a039d69d67.jpg), ɪ'ᴍ ʟʏᴄɪ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-Maintained by @tzkid ❤
+Maintained by [ᴋɪᴅ](t.me/kid_of_telegram)"""
 """
 
 buttons = [
@@ -103,14 +103,14 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'M` Lyci
+`Hi.. ɪ'ᴍ ʟʏᴄɪ
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
-Powered by :- [Kid Bots](t.me/kidbots)"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☆ [ᴋɪᴅ ʙᴏᴛꜱ](t.me/kidbots)"""
 
 layla_IMG = "https://telegra.ph/file/3f9346bdf04a039d69d67.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [kid](t.me/kidpmbot) \
+ You can support the project [ᴋɪᴅ](t.me/kid_of_telegram) \
  Supporting isnt always financial! [Kid Bots](t.me/tzkid) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
