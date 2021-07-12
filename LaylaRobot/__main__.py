@@ -93,7 +93,7 @@ buttons = [
     [
         InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/zairalogs"),
         InlineKeyboardButton(
-            text="ᴘʏꜱᴋɪᴅ", url=f"https://t.me/psykd"
+            text="ᴘʏꜱᴋɪᴅ", url=f"https://t.me/kidhub"
         ),
     ],
     [
