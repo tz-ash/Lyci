@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [👋](https://telegra.ph/file/3f9346bdf04a039d69d67.jpg), ɪ'ᴍ ʟʏᴄɪ
+ʜᴇʟʟᴏ [👋](https://telegra.ph/file/f7851c1b3c4f8b2e607fd.jpg), ɪ'ᴍ ʟʏᴄɪ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @tzkid
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ [ᴋɪᴅ](t.me/kid_of_telegram)
 """
 
 buttons = [
@@ -107,7 +107,7 @@ HELP_STRINGS = """
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`
 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :- [ᴋɪᴅ ʙᴏᴛꜱ](t.me/kidbots)"""
 
-layla_IMG = "https://telegra.ph/file/3f9346bdf04a039d69d67.jpg"
+layla_IMG = "https://telegra.ph/file/f7851c1b3c4f8b2e607fd.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [ᴋɪᴅ](t.me/kid_of_telegram) \
